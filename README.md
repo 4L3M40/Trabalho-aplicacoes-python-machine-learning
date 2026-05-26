@@ -78,4 +78,4 @@ Desenvolvido por **[4L3M40](https://github.com/4L3M40)**
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins acadêmicos..
+Este projeto foi desenvolvido para fins acadêmicos.
